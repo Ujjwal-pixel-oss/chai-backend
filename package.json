@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Ujjwal-pixel-oss/chai-backend/issues"
   },
-  "homepage": "https://github.com/Ujjwal-pixel-oss/chai-backend#readme"
+  "homepage": "https://github.com/Ujjwal-pixel-oss/chai-backend#readme",
+  "devDependencies": {
+    "prettier": "^3.8.1"
+  }
 }
