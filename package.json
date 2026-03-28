@@ -1,0 +1,21 @@
+{
+  "name": "chai-or-backend",
+  "version": "1.0.0",
+  "description": "This is a video series on backend with javascript\r -[Model link](https://app.eraser.io/workspace/Dt4Ff1EMMxsceQzSpmfA?origin=share)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ujjwal-pixel-oss/chai-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Ujjwal-pixel-oss/chai-backend/issues"
+  },
+  "homepage": "https://github.com/Ujjwal-pixel-oss/chai-backend#readme"
+}
